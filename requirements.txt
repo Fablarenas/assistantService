@@ -2,3 +2,8 @@ langchain
 sentence_transformers
 torch
 pypdf
+fastapi
+uvicorn
+langchain_community
+nltk
+qdrant-client
